@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Large Language Models",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Large language Models, often referred to as LLMs, are revolutionizing technology at an astonishing pace.",
+    url: "https://medium.com/@regmisaugat1602/large-language-models-d20005de9c40",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Convolutional Neural Networks (CNNs)",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Wrote a short blog  post about Convolutional Neural Networks explaining the structure of it..",
+    url: "https://medium.com/@regmisaugat1602/convolutional-neural-network-1db201f928d9",
   },
   {
-    title: "My Resume Site",
+    title: "66Days of Machine Learning",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Completed 66 Days of Learning and documented my whole journey in the GitHub repository.",
+    url: "https://github.com/regmi-saugat/66Days_MachineLearning",
   },
   {
     title: "GitHub Codespaces and github.dev",
