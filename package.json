@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/regmi-saugat/PersonalPortfolio#readme",
+  "homepage": "https://regmi-saugat.github.io/PersonalPortfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{regmi-saugat}.github.io/{PersonalPortfolio}'",
+    "build-gh": "parcel build --public-url 'https://regmi-saugat.github.io/PersonalPortfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
